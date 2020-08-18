@@ -2,21 +2,19 @@
 Randomizes the level order from NSMB (DS). Works on USA/NTSC-U ROMs ONLY.  
 
 ### Credits:  
--thegreatwaluigi: Started the project. Level documentation and testing.  
--RicBent/Bent: Created the NSMBDS worldmap editor that was used for code reference, testing,  
+- thegreatwaluigi: Started the project. Level documentation and testing.  
+- RicBent/Bent: Created the NSMBDS worldmap editor that was used for code reference, testing,  
 and made moving the levels around possible in the first place.  
--islender: Coded the randomizer.  
+- islender: Coded the randomizer.  
 
 ## Full guide:  
 
 You will need:  
--The .NET Framework v4.0 or higher installed on your computer.  
--The latest release of the NSMB editor which can be found here:  
-https://nsmbhd.net/download/  
--A seperate version of the above editor to decompress the required file:  
-http://www.mediafire.com/file/c0023rbntizjdz7/NSMBe_OverlayDecompress.rar/file  
--A clean USA/NTSC .nds rom of NSMBDS [You can extract your own copy with a 3Ds.]  
-(EU/PAL roms are not supported.)  
+- The .NET Framework v4.0 or higher installed on your computer.  
+- The latest release of the NSMB editor which can be found [here](https://nsmbhd.net/download/)
+- A seperate version of the above editor to decompress the required file, can be found [here](http://www.mediafire.com/file/c0023rbntizjdz7/NSMBe_OverlayDecompress.rar/file)
+- A clean USA/NTSC .nds rom of NSMBDS (You can extract your own copy with a 3DS.):    
+(EU/PAL ROMs are not supported.)  
 
 1. Open the OverlayDecompress version of NSMBe, (not the most recent) and select your rom.  
 2. Select the "ROM File Browser" tab at the top. Open the "FILESYSTEM" folder, then the  
