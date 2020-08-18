@@ -1,13 +1,13 @@
 # NSMB-Randomizer
 Randomizes the level order from NSMB (DS). Works on USA/NTSC-U ROMs ONLY.  
 
-Credits:  
+### Credits:  
 -thegreatwaluigi: Started the project. Level documentation and testing.  
 -RicBent/Bent: Created the NSMBDS worldmap editor that was used for code reference, testing,  
 and made moving the levels around possible in the first place.  
 -islender: Coded the randomizer.  
 
-Full guide:  
+## Full guide:  
 
 You will need:  
 -The .NET Framework v4.0 or higher installed on your computer.  
@@ -45,7 +45,7 @@ DOES work on, the extract button is broken. I have no idea why nobody will fix t
 16. (IMPORTANT) Be sure to keep the original overlay9_8.bin file and the .nds rom you used  
 for this process! They can be reused so you only have to repeat steps 9-15 in the future!  
 
-World 4 and 7:  
+### World 4 and 7:  
 To get to these worlds, beat whichever stage appears OVER "2-Castle" and "5-Castle" with  
 a mini mushroom! (EVERY castle, if appearing in ANY level of world 2 or 5, will have the  
 "change world" sign at the end that mini mario can interact with. That sign is NOT linked to  
