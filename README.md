@@ -50,5 +50,5 @@ a mini mushroom! (EVERY castle, if appearing in ANY level of world 2 or 5, will 
 the world destination change in any way, only the mentioned stage slots themselves are.)  
 
 Send a message on Discord if you have any questions or encounter any crashes!  
-thegreatwaluigi#3716  
+TGWaluigi#2985  
 islender#4292
