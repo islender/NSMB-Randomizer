@@ -1,12 +1,6 @@
 # NSMB-Randomizer
 Randomizes the level order from NSMB (DS). Works on USA/NTSC-U ROMs **ONLY**.  
 
-### Credits:  
-- thegreatwaluigi: Started the project. Level documentation and testing.  
-- RicBent/Bent: Created the NSMBDS worldmap editor that was used for code reference, testing,  
-and made moving the levels around possible in the first place.  
-- islender: Coded the randomizer.  
-
 ## Full guide:  
 
 You will need:  
@@ -52,3 +46,9 @@ the world destination change in any way, only the mentioned stage slots themselv
 Send a message on Discord if you have any questions or encounter any crashes!  
 TGWaluigi#2985  
 islender#4292
+
+### Credits:  
+- thegreatwaluigi: Started the project. Level documentation and testing.  
+- RicBent/Bent: Created the NSMBDS worldmap editor that was used for code reference, testing,  
+and made moving the levels around possible in the first place.  
+- islender: Coded the randomizer.  
