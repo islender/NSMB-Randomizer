@@ -45,7 +45,7 @@
             this.ofdButton.TabIndex = 1;
             this.ofdButton.Text = "Open overlay9_8.bin";
             this.ofdButton.UseVisualStyleBackColor = true;
-            this.ofdButton.Click += new System.EventHandler(this.ofdButton_Click);
+            this.ofdButton.Click += new System.EventHandler(this.OpenButtonClicked);
             // 
             // goButton
             // 
@@ -56,7 +56,7 @@
             this.goButton.TabIndex = 2;
             this.goButton.Text = "Go!";
             this.goButton.UseVisualStyleBackColor = true;
-            this.goButton.Click += new System.EventHandler(this.goButton_Click);
+            this.goButton.Click += new System.EventHandler(this.GoButtonClicked);
             // 
             // infoLabel
             // 
@@ -87,11 +87,11 @@
             this.seedCheckBox.Enabled = false;
             this.seedCheckBox.Location = new System.Drawing.Point(172, 21);
             this.seedCheckBox.Name = "seedCheckBox";
-            this.seedCheckBox.Size = new System.Drawing.Size(79, 17);
+            this.seedCheckBox.Size = new System.Drawing.Size(117, 17);
             this.seedCheckBox.TabIndex = 8;
-            this.seedCheckBox.Text = "Use Seed?";
+            this.seedCheckBox.Text = "Use Custom Seed?";
             this.seedCheckBox.UseVisualStyleBackColor = true;
-            this.seedCheckBox.CheckedChanged += new System.EventHandler(this.seedCheckBox_CheckedChanged);
+            this.seedCheckBox.CheckedChanged += new System.EventHandler(this.SeedBoxCheckChanged);
             // 
             // EditorForm
             // 
@@ -109,7 +109,7 @@
             this.MinimumSize = new System.Drawing.Size(489, 132);
             this.Name = "EditorForm";
             this.Text = "NSMB Level Randomizer";
-            this.Load += new System.EventHandler(this.EditorForm_Load);
+            this.Load += new System.EventHandler(this.EditorFormLoaded);
             ((System.ComponentModel.ISupportInitialize)(this.seedNumericBox)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

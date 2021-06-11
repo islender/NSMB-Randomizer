@@ -16,9 +16,9 @@ namespace NSMB_Randomiser
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Console.WriteLine("Loading...");
+            //Console.WriteLine("Loading...");
             Application.Run(new EditorForm());
-            Console.WriteLine("Randomizer window closed. You can view debug output here if necessary.");
+            //Console.WriteLine("Randomizer window closed. You can view debug output here if necessary.");
         }
     }
 }
