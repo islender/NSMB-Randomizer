@@ -1,5 +1,5 @@
 # NSMB-Randomizer
-Randomizes the level order from NSMB (DS). Works on USA/NTSC-U ROMs **ONLY**.  
+Randomizes the level order from New Super Mario Brothers (DS). Works on USA/NTSC-U ROMs **ONLY**.  
 
 ## Full guide:  
 
