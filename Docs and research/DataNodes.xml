@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!--  NSMB Worldmap Editor - Data Nodes World Offsets (Currently only US)--> 
+<root>
+	<World id="1" nodes="19">0x1B1F4</World>
+	<World id="2" nodes="20">0x1B2D8</World>
+	<World id="3" nodes="18">0x1AE7C</World>
+	<World id="4" nodes="19">0x1B02C</World>
+	<World id="5" nodes="24">0x1B5C4</World>
+	<World id="6" nodes="20">0x1B3C8</World>
+	<World id="7" nodes="18">0x1AF54</World>
+	<World id="8" nodes="17">0x1B110</World>
+</root>

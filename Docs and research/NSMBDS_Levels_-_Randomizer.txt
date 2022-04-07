@@ -1,0 +1,83 @@
+Main:
+World 1-1| 1|0
+World 1-3| 3|6
+World 1-4| 5|7
+World 1-5| 6|10
+W1 Castle| 7|17
+World 1-A|12|12
+World 2-1| 1|21
+World 2-2| 2|24
+W2 Tower | 5|37
+World 2-5| 7|30
+World 2-6| 9|32
+W2 Castle|10|40
+World 3-1| 2|44
+W3 Tower | 5|61
+World 3-3| 7|48
+W3 Castle|10|63
+World 3-A|11|51
+World 3-B|13|54
+World 3-C|15|56
+World 4-2| 2|67
+World 4-3| 3|69
+W4 Tower | 4|83
+World 4-4| 6|71
+World 4-5| 9|73
+World 4-6|10|76
+W4 Castle|11|85
+World 4-A|14|78
+World 5-1| 1|88
+W5 Tower | 5|102
+World 5-3| 7|91
+World 5-4|10|93
+W5 Castle|11|104
+World 5-A|13|94
+World 5-C|18|97
+World 6-1| 2|107
+World 6-2| 4|109
+W6 Tower1| 5|122
+World 6-3| 6|111
+World 6-4| 7|113
+W6 Tower2| 8|124
+World 6-5|10|114
+World 6-6|11|116
+W6 Castle|12|126
+World 6-A|13|119
+World 6-B|19|121
+World 7-1| 1|129
+World 7-2| 3|130
+World 7-3| 4|132
+W7 Tower | 5|147
+World 7-7|17|141
+World 7-A| 8|142
+W7 Castle|10|149
+World 8-1| 1|151
+World 8-2| 2|153
+W8 Tower1| 3|167
+World 8-3| 4|156
+World 8-4| 5|158
+W8 Castle| 6|171
+World 8-5| 7|160
+World 8-6| 8|162
+World 8-7| 9|164
+World 8-8|10|165
+W8 Tower2|11|169
+W8 Final |12|173
+
+Secret Exit:
+World 1-2| 2|3
+W1 Tower | 4|14
+World 2-3| 3|26
+World 2-4| 4|28
+World 2-A|12|34
+World 3-2| 4|46
+W3 Ghost | 8|58
+World 4-1| 1|66
+W4 Ghost | 8|80
+World 5-2| 3|89
+W5 Ghost | 8|99
+World 5-B|16|96
+W7 Ghost | 2|144
+World 7-4| 6|134
+World 7-5| 7|135
+World 7-6|16|138
